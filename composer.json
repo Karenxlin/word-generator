@@ -1,5 +1,5 @@
 {
-    "name": "kl/word-generator",
+    "name": "kxl/word-generator",
     "type": "project",
     "description": "Using PHPWord library to generate a text into word document",
     "keywords": [
