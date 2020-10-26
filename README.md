@@ -22,13 +22,15 @@ Installation:
 
 2) **by git**
 ---------
-git clone https://github.com/karenxlin/word-generator.git
+git clone https://github.com/word-generator.git
 
 3) **by zipped release**
 --------------------
 Download the latest release from this page:  
-https://github.com/karenxlin/word-generator/releases
+https://github.com/word-generator/releases
 
 Getting Started
 ---------------
-
+  ```
+  php index.php 'Hello World!'
+  ```
