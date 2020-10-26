@@ -13,11 +13,11 @@ Installation:
   --------------
   To load the project with composer use
   ```
-  composer create-project karen/word-generator
+  composer create-project kxl/word-generator
   ```
   If you want to install the main-branch instead of the latest release use
   ```
-  composer create-project -s dev karen/word-generator
+  composer create-project -s dev kxl/word-generator
   ```
 
 2) **by git**
@@ -28,9 +28,3 @@ git clone https://github.com/word-generator.git
 --------------------
 Download the latest release from this page:  
 https://github.com/word-generator/releases
-
-Getting Started
----------------
-  ```
-  php index.php 'Hello World!'
-  ```
