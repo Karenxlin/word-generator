@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "86db9cb04bc2e55191b8bbd08fd63092",
+    "content-hash": "90c8e4c8c03b356a76dfd066814eb6d8",
     "packages": [
         {
             "name": "pclzip/pclzip",

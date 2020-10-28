@@ -6,19 +6,19 @@
     'aliases' => 
     array (
     ),
-    'reference' => '0617f172688e21a00c9b9c7cca8416864431b85d',
-    'name' => 'karen/word-generator',
+    'reference' => '87f59a4cafc3b0a97f440e870cb20d778f61ee75',
+    'name' => 'kxl/word-generator',
   ),
   'versions' => 
   array (
-    'karen/word-generator' => 
+    'kxl/word-generator' => 
     array (
       'pretty_version' => 'dev-main',
       'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => '0617f172688e21a00c9b9c7cca8416864431b85d',
+      'reference' => '87f59a4cafc3b0a97f440e870cb20d778f61ee75',
     ),
     'pclzip/pclzip' => 
     array (
